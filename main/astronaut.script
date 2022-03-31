@@ -1,5 +1,4 @@
 function init(self)
-	print("hula-hop")
 	-- Add initialization code here
 	-- Remove this function if not needed
 end
